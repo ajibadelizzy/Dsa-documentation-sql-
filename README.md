@@ -15,3 +15,5 @@
   - which shipping method incurred the most shipping cost
   - which small business customer has the highest sales
   - who is the most profitable consumer customer  e.t.c
+  
+https://github.com/ajibadelizzy/Dsa-documentation-sql-/blob/main/capstone%20project(sql).sql
